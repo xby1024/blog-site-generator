@@ -75,22 +75,18 @@ nav:
 
 social:
   twitter: https://twitter.com/yanxuebing
-  github: https://github.com/xbyan
+#  github: https://github.com/xbyan
   mail: mailto:xuebing.yan@gmail.com
 
 widget:
   title: About 
-  content: 小白杨的学习、思考、实践笔记
+  content: 小白杨的学习、思考、实践笔记<br/>转载须注明出处
 
 disqus_shortname: xbyio
 #duoshuo_shortname: shortname
-
-#skip_render: 
-#  - baidu_verify_rWUd5upDhZ.html
-#  - google6b2e2095b309a126.html
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:xbyan/xbyan.github.io.git 
+  repo: git@github.com-xby:xbyan/xbyan.github.io.git 
